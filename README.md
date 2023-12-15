@@ -1,2 +1,2 @@
 # aplayer
-http://albumplayer.ru/linux/index.html
+[HomePage](http://albumplayer.ru/linux/index.html)
